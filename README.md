@@ -15,8 +15,6 @@
 - 👨‍💻 All of my projects are available at [Github](https://github.com/shivam101gaur?tab=repositories)
 
 <br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam101gaur&show_icons=true&locale=en&layout=compact" alt="shivam101gaur" />
-</p>
-
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam101gaur&show_icons=true&locale=en" alt="shivam101gaur" /></p>
-<p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam101gaur&" alt="shivam101gaur" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam101gaur&" alt="shivam101gaur" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam101gaur&show_icons=true&locale=en" alt="shivam101gaur" /></p>
+<p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam101gaur&show_icons=true&locale=en&layout=compact" alt="shivam101gaur" /></p>
