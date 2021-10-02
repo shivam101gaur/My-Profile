@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Gaur</h1>
 <h3 align="center">Software developer from India.</h3>
 
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/shivam-gaur-1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-gaur-1307" height="30" width="40" /></a>
@@ -18,3 +17,6 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam101gaur&show_icons=true&locale=en&layout=compact" alt="shivam101gaur" />
 </p>
+
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam101gaur&show_icons=true&locale=en" alt="shivam101gaur" /></p>
+<p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam101gaur&" alt="shivam101gaur" /></p>
